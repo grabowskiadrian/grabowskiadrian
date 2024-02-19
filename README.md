@@ -8,4 +8,4 @@ Tech Lead | Software Development | Dedicated IT solutions | Owner at Apposto
 - 💬 Ask me about **Architecture, PHP Apps, Security**
 - 📫 How to reach me **adrian.grabowski@apposto.pl**
 
-<a href="https://www.buymeacoffee.com/adriangrabj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/adriangrabj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 150px !important;" ></a>
